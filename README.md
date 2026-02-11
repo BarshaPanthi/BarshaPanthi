@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barshapanthi222@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarshaPanthi)
 
-![Profile Views](https://komarev.com/ghpvc/?username=BarshaPanthi&color=F85D7F&style=for-the-badge)
 
 </div>
 
