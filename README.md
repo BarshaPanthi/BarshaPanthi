@@ -116,15 +116,6 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=BarshaPanthi&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 💼 What I Do
 
