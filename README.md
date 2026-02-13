@@ -205,8 +205,6 @@ I'm always excited to work on projects that make a real impact!
 
 ---
 
-## Fun Facts About Me
-
 <div align="center">
 
 ```python
@@ -217,16 +215,14 @@ fun_facts = {
     "currently_reading": "Deep learning papers and good fiction",
     "dream"            : "Build AI solutions that make a real difference"
 }
-
-</div>
+```
 
 ---
 
-
-### *"Transforming data into insights, one algorithm at a time."* 
+### *"Transforming data into insights, one algorithm at a time."*
 
 **Thank you for visiting my profile! Let's connect and create something amazing! 🌟**
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 </div>
