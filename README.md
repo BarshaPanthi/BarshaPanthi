@@ -211,13 +211,12 @@ I'm always excited to work on projects that make a real impact!
 
 ```python
 fun_facts = {
-    "favorite_quote": "There's beauty in finding patterns where others see noise",
-    "hobbies": "books, good coffee, good cricket,
-    "superpower": "Making sense of chaos (aka messy datasets)",
+    "favorite_quote"   : "There's beauty in finding patterns where others see noise",
+    "hobbies"          : "books, good coffee, good cricket",
+    "superpower"       : "Making sense of chaos (aka messy datasets)",
     "currently_reading": "Deep learning papers and good fiction",
-    "dream": "Build AI solutions that make a real difference"
+    "dream"            : "Build AI solutions that make a real difference"
 }
-```
 
 </div>
 
