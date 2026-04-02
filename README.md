@@ -42,7 +42,6 @@ Exploring the world through data, AI, and intelligent systems.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-black?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=flat-square&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-black?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-black?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-black?style=flat-square&logo=figma&logoColor=white)
