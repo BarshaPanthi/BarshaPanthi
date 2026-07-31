@@ -1,6 +1,8 @@
 # Barsha Panthi
 
-Exploring the world through data, AI, and intelligent systems.
+Final year Computer Science undergraduate from Nepal with a strong interest in AI, data, and solving practical problems through 
+technology. Focused on exploring how intelligent systems and data-driven approaches can be used to build real-world solutions, 
+through continuous learning, hands-on projects, and collaboration. 
 
 📍 Butwal, Nepal &nbsp;&nbsp;
 
@@ -48,11 +50,5 @@ Exploring the world through data, AI, and intelligent systems.
 
 ---
 
-<samp>"There's beauty in finding patterns where others see noise."</samp>
-
-
-**Thank you for visiting my profile! Let's connect and create something amazing! **
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 </div>
